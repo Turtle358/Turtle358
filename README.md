@@ -1,4 +1,3 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Turtle358&show_icons=true&locale=en&layout=compact" alt="Turtle358" /></p>
 <p align="center">
   <a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Turtle358&theme=dark&hide_border=true"/>
