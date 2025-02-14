@@ -1,10 +1,4 @@
 <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Turtle358&theme=dark&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Turtle358">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Turtle358&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
