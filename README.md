@@ -1,8 +1,27 @@
-<p align="center">
-  <a href="https://github.com/Turtle358">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Turtle358&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Turtle358">
-    <img align="center" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Turtle358&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
+### Hi 👋, I'm Luke.
+
+Hey! I'm a Computer Science and Cyber Security student studying in London, UK.
+
+---
+
+
+Check out some of my projects!
+
+- 🏃[`Books to voice AI (joint project)`](https://github.com/Radonchnk/Books-to-Voice-with-AI)
+
+  A tool using AI TTS models to turn entire books into audiobooks
+
+- 🥼 [`Android Calculator app using pyhton`](https://github.com/Turtle358/CalcApp-Java)
+
+  Thats it, it's simply a calculator app for android which can be sideloaded using the APK
+
+---
+
+#### Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Turtle358&show_icons=true&theme=transparent"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle358&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact"/>
+</a
