@@ -11,9 +11,9 @@ Check out some of my projects!
 
   A tool using AI TTS models to turn entire books into audiobooks
 
-- 🥼 [`Android Calculator app using pyhton`](https://github.com/Turtle358/CalcApp-Java)
+-  🛡️[`AI Phishing protection tool`](https://github.com/Turtle358/PhishingURLDetector)
 
-  Thats it, it's simply a calculator app for android which can be sideloaded using the APK
+  A tool using a home build deep learning tool to effectively detect and warn against phishing urls
 
 ---
 
