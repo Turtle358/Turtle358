@@ -23,8 +23,4 @@ CallingPoint is your ultimate calling point for navigating the UK National Rail 
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Turtle358" alt="Most Used Languages" />
   </a>
-
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Turtle358" alt="WakaTime Stats" />
-  </a>
 </div>
