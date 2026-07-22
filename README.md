@@ -15,7 +15,7 @@ A tool using AI TTS models to turn entire books into audiobooks
 
 A tool using a home build deep learning tool to effectively detect and warn against phishing urls
 
-- 🚆 [CallingPoint](https://callingpoint.co.uk/) 
+- 🚆 [`CallingPoint`](https://callingpoint.co.uk/) 
 
 CallingPoint is your ultimate calling point for navigating the UK National Rail network. Get live departure boards, intelligent routing, and proactive disruption alerts right in your pocket.
 
