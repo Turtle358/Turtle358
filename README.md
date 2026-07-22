@@ -19,7 +19,7 @@ CallingPoint is your ultimate calling point for navigating the UK National Rail 
 
 ### Stats
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Turtle358" alt="Most Used Languages" />
   </a>
