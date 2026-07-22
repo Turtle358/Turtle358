@@ -17,13 +17,14 @@ CallingPoint is your ultimate calling point for navigating the UK National Rail 
 
 ---
 
-#### Stats
+### Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Turtle358&show_icons=true&theme=transparent"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Turtle358" alt="Most Used Languages" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turtle358&size_weight=0.5&count_weight=0.5&theme=transparent&layout=compact"/>
+
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Turtle358" alt="WakaTime Stats" />
   </a>
 </div>
